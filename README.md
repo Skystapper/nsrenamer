@@ -33,7 +33,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/coderboy1952/next-gen-rename)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skystapper/nsrenamer)
 
 ## WARNING ⚠️
 Direct Deploy via button not working?? Suspension issue??
